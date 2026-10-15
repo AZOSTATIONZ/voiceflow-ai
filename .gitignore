@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+installer_output/
+*.spec
+assets/icon.ico
+.pytest_cache/
